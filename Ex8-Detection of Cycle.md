@@ -88,7 +88,7 @@ class DetectCycle {
 
 ## Output:
 
-<img width="459" height="153" alt="image" src="https://github.com/user-attachments/assets/956e0d1f-b504-4175-853e-7171cb9ffed0" />
+<img width="798" height="175" alt="514427923-9d8d99fc-0ab8-4708-8517-3b5c6a2663a6" src="https://github.com/user-attachments/assets/9cf07013-1fb6-4b49-94e4-8696175c6272" />
 
 
 ## Result:

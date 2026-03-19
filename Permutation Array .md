@@ -76,7 +76,8 @@ class LongestSet {
 
 ## Output:
 
-<img width="648" height="331" alt="image" src="https://github.com/user-attachments/assets/ec3863b7-0889-4948-bf67-6b809f2f21c8" />
+<img width="435" height="89" alt="514428739-4eacad87-879a-439c-8de7-a72bb850f9c1" src="https://github.com/user-attachments/assets/37b9b1d0-0088-4984-a29c-6a4b13bee701" />
+
 
 
 ## Result:
